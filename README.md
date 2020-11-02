@@ -57,8 +57,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  $ yarn install ou
  $ npm i 
  
- # Execute a aplicação em modo de desenvolvimento
- $ npm dev 
+ com o mongo inicializado, <a href='https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/'> como inicializar o mongo </a>
+ 
+ # Execute a aplicação backend em modo de desenvolvimento
+ $ npm dev ou
+ $ yarn dev
+ 
+ # Execute a aplicação frontend em modo de desenvolvimento
+ $ npm dev ou
  $ yarn dev
  
  # O servidor iniciará na porta 8080
