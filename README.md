@@ -1,5 +1,5 @@
  <h1> Todo App </h1>
- <p id="sobre" align="center">
+ <p id="sobre">
 📋 Um Todo App. Que utiliza o React, Redux, Bootstrap, Flux, Padrão Decorator, MongoDB, e uma boa abstração, vale a pena conferir.
 
 ![](https://img.shields.io/badge/license-MIT-green)
