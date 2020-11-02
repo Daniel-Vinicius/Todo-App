@@ -57,7 +57,13 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  $ yarn install ou
  $ npm i 
  
- com o mongo inicializado, <a href='https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/'> como inicializar o mongo </a>
+ com o mongo inicializado
+ 
+ ````
+ 
+ <a href='https://www.luiztools.com.br/post/tutorial-mongodb-para-iniciantes-em-nosql/'> como inicializar o mongo </a>
+ 
+ ````
  
  # Execute a aplicação backend em modo de desenvolvimento
  $ npm dev ou
