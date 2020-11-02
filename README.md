@@ -13,6 +13,7 @@
 - [x] Padrão Flux e Decorator
 - [x] Integração com Bootstrap
 - [x] Integração com MongoDB
+- [x] Responsivo
 
 <h4  align="left">
 Projeto finalizado ✔
@@ -64,6 +65,10 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  # Acesse http://localhost:8080
  ````
 <p> Quando você tiver realizado todos os passos do projeto verá a  <a href="#imagem" >imagem do projeto</a> </p>
+
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Todo-App/blob/main/.github/Imagem%20(3).JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Todo-App/blob/main/.github/Imagem%20(1).JPG" />  </h2>
+<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/Todo-App/blob/main/.github/Imagem%20(2).JPG" />  </h2>
 
 ### 🛠 Tecnologias<a id="tecnologias"></a>
  As seguintes ferramentas foram usadas na construção do projeto:
